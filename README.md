@@ -15,12 +15,12 @@
 - スコアが増えるとき、リンゴの数も増えます。リンゴ数は　1+スコア/5　です。全部毒リンゴにならないように、最低限普通リンゴ一つにしました。
 - エンディング画面で文字が一つずつ出すにしますが、スタートキーですぐ次の文字を出すにしました。
 
-5. 使用したしたリソース：
+5. 使用したしたリソース： <br /><br />
 BGM:
- - メインゲームのBGM: https://maou.audio/bgm_ethnic25/　
- - ゲームオーバーのBGM: https://maou.audio/bgm_ethnic30/　
+- メインゲームのBGM: https://maou.audio/bgm_ethnic25/
+- ゲームオーバーのBGM: https://maou.audio/bgm_ethnic30/  <br /><br /> 
 効果音:
- - 壁に衝突した音: https://maou.audio/se_battle16/　壁に衝突した音
- - エンディング画面文字が出る時の音: https://maou.audio/se_battle14/　エンディング画面文字が出る時の音
+- 壁に衝突した音: https://maou.audio/se_battle16/　
+- エンディング画面文字が出る時の音: https://maou.audio/se_battle14/　
 
 *他のリソースは学校で配布したリソースです。
