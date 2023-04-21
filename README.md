@@ -16,11 +16,11 @@
 - エンディング画面で文字が一つずつ出すにしますが、スタートキーですぐ次の文字を出すにしました。
 
 5. 使用したしたリソース：
-- BGM:
--- https://maou.audio/bgm_ethnic25/　メインゲームのBGM
--- https://maou.audio/bgm_ethnic30/　ゲームオーバーのBGM
-- 効果音:
--- https://maou.audio/se_battle16/　壁に衝突した音
--- https://maou.audio/se_battle14/　エンディング画面文字が出る時の音
+BGM:
+ - メインゲームのBGM: https://maou.audio/bgm_ethnic25/　
+ - ゲームオーバーのBGM: https://maou.audio/bgm_ethnic30/　
+効果音:
+ - 壁に衝突した音: https://maou.audio/se_battle16/　壁に衝突した音
+ - エンディング画面文字が出る時の音: https://maou.audio/se_battle14/　エンディング画面文字が出る時の音
 
 *他のリソースは学校で配布したリソースです。
